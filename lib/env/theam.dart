@@ -7,6 +7,8 @@ class AppColors {
   static const Color PRIMARY_COLOR_LIGHT = Color.fromRGBO(114, 13, 93, 1);
   static const Color PRIMARY_COLOR_DARK = Color.fromRGBO(78, 13, 58, 1);
   static const Color FLASH_COLOR = Color.fromRGBO(227, 4, 37, 1);
+  static const Color LIGHT_BACKGROUND = Color.fromRGBO(242, 247, 255, 1);
+  static const Color CARD_BACKGROUND = Color.fromRGBO(255, 255, 255, 1);
 }
 
 class AppText {}
